@@ -38,3 +38,10 @@ This repository contains the source code for an advanced spyware tool designed t
 > If you are a **researcher**, **student**, or **cybersecurity professional** and would like access to the complete set of files for **educational and ethical testing purposes only**, please contact the author directly with a valid reason email: subscribeall05@gmail.com.
 
 ---
+
+## 💻 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+
