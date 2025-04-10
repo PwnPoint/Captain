@@ -28,6 +28,7 @@ This repository contains the source code for an advanced spyware tool designed t
 - **Stealth Techniques**  
   Designed to run silently in the background with minimal detection.
 
+- **ETC** 
 ---
 
 ## ⚠️ Important Notice About Missing Files
